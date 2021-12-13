@@ -1,4 +1,4 @@
-📚 Olá, me chamo Keitey, amo programar e ler 🤓
+📚 Olá!!Me chamo Keitey, amo programar e ler 🤓
 
 - 💡 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on frontend projects

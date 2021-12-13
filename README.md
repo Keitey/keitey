@@ -1,6 +1,6 @@
 📚 Olá, me chamo Keitey, amo programar e ler 🤓
 
-- 🌱 I’m currently learning Javascript
+- 💡 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on frontend projects
 - 📫 How to reach me: https://www.linkedin.com/in/keitey-barros-21bb8bb4/
 - 😅 Fun fact: Amo passar horas lendo mas não tenho paciência para mais que 45 min de filme/séries (A galera do audiovisual lendo isso 🤡)

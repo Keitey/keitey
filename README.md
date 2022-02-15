@@ -6,9 +6,9 @@
 - 😅 Curiosidade: Amo passar horas lendo mas não tenho paciência para mais que 45 min de filme/séries (A galera do audiovisual lendo isso 🤡)
 
 <div align="center">
-  <a href="https://github.com/keitey">
+  <a href="https://github.com/Keitey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keitey&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keitey&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keitey&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
  <div style="display: inline_block"><br>

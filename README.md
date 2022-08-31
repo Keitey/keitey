@@ -1,7 +1,7 @@
 📚 Olá!!Me chamo Keitey, amo programar e ler 🤓
 
 - 💡 Atualmente estou em busca de oportunidades na área de FrontEnd.
-- 📫 Meu Linkedin: https://www.linkedin.com/in/keitey-barros-21bb8bb4/
+- 📫 Meu Linkedin: https://www.linkedin.com/in/devkeiteybarros/
 
 <div align="center">
   <a href="https://github.com/Keitey">
